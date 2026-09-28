@@ -11,7 +11,8 @@ https://github.com/miguelgrinberg/flasky
 
 
 
-!\[Activity 1.3 Screenshot](activity1\_3.png)
+!\[Screenshot](Screenshot%20(activity1\_3.png)
+
 
 
 
