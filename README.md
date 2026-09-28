@@ -7,32 +7,17 @@ https://github.com/miguelgrinberg/flasky
 
 
 
-\## Activity 1.3
+## Activity 1.3
 
+![Activity 1.3 Screenshot](activity1_3.png)
 
+## Activity 1.4
 
-!\[Screenshot](Screenshot%20(activity1\_3.png)
+### Valid UofT Email
+![Valid UofT Email](activity1_4_valid.png)
 
+### Invalid Email Format
+![Invalid Email Format](activity1_4_invalid_format.png)
 
-
-
-\## Activity 1.4
-
-
-
-\### Valid UofT Email
-
-!\[Valid UofT Email](activity1\_4\_valid.png)
-
-
-
-\### Invalid Email Format
-
-!\[Invalid Email Format](activity1\_4\_invalid\_format.png)
-
-
-
-\### Non-UofT Email
-
-!\[Non-UofT Email](activity1\_4\_non\_uoft.png)
-
+### Non-UofT Email
+![Non-UofT Email](activity1_4_non_uoft.png)
